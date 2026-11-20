@@ -1,6 +1,6 @@
 
 <!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Shawon Aminul</h1>
+<h1 align="center">Hi 👋, I'm Aminul Hoque Shawon </h1>
 
 <h3 align="center">
   🤖 AI Engineer | Python Developer | Backend Developer
