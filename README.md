@@ -5,10 +5,12 @@
 <h3 align="center">
   🤖 AI Engineer | Python Developer | Backend Developer
 </h3>
-<p align="center">
+<p>
+  📫 Please email via 
   <a href="mailto:shawonaminul01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shawonaminul01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    shawonaminul01@gmail.com
+  </a> 
+  to reach me.
 </p>
 
 <p align="center">
