@@ -6,7 +6,7 @@
   🤖 AI Engineer | Python Developer | Backend Developer
 </h3>
 <h6 align="center">
-  📫 Please email via <a>shawonaminul01@gmail.com</a> to reach me.
+  📫 Please email via <ahref="mailto:shawonaminul01@gmail.com"></a> to reach me.
 </h6>
 
 <p align="center">
