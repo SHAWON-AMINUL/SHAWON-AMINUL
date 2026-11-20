@@ -5,7 +5,7 @@
 <h3 align="center">
   🤖 AI Engineer | Python Developer | Backend Developer
 </h3>
-<p>
+<p align="center"> 
   📫 Please email via 
   <a href="mailto:shawonaminul01@gmail.com">
     shawonaminul01@gmail.com
