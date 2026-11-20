@@ -6,8 +6,8 @@
   🤖 AI Engineer | Python Developer | Backend Developer
 </h3>
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shawonaminul01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shawonaminul01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
