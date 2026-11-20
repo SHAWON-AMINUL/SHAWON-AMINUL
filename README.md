@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+RAG+Applications;Exploring+Agentic+AI;Python+%7C+FastAPI+%7C+LangGraph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+RAG+Applications;Exploring+Agentic+AI;Python+%7C+FastAPI+%7C+LangGraph+7C+Langchain" />
 </p>
 
 ---
