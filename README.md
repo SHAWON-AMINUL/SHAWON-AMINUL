@@ -1,4 +1,3 @@
-
 <!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Aminul Hoque Shawon </h1>
 
@@ -21,11 +20,22 @@
 
 ## 🚀 About Me
 
-- 🤖 Passionate about Artificial Intelligence and Machine Learning.
-- 🧠 Exploring LLMs, RAG, and Agentic AI.
-- ⚡ Building AI-powered applications.
-- 🔭 Working with Python, FastAPI and LangGraph.
-- 🌱 Always learning and exploring new technologies.
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🤖 Passionate about Artificial Intelligence and Machine Learning.</li>
+        <li>🧠 Exploring LLMs, RAG, and Agentic AI.</li>
+        <li>⚡ Building AI-powered applications.</li>
+        <li>🔭 Working with Python, FastAPI and LangGraph.</li>
+        <li>🌱 Always learning and exploring new technologies.</li>
+      </ul>
+    </td>
+   <td width="40%" align="center" valign="middle">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmfNRkcsFKUlZBC3k8hmHIo6fTkCW5s37V9QchHdOOQ&s=10" alt="AI Engineer Visual" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
